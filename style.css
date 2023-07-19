@@ -1,0 +1,33 @@
+#center{
+    margin: auto;
+    margin-left: 0px;
+    border: 2px solid black;
+    border-radius: 50px 50px 50px 50px;
+    background-color: bisque;
+    padding: 50px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+h1,h3{
+    display: inline;
+}
+button{
+    border-radius: 50%;
+    height: 40px;
+    width: 100px;
+}
+button:hover{
+    background-color: rgb(66, 73, 73);
+}
+p{
+    display: inline;
+    font-size: 20px;
+    background-color: aliceblue;
+    border: 2px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: rgb(43, 31, 2);
+}
